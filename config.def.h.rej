@@ -1,9 +1,0 @@
-diff a/config.def.h b/config.def.h	(rejected hunks)
-@@ -41,6 +41,7 @@ static const Layout layouts[] = {
- 	{ "[]=",      tile },    /* first entry is default */
- 	{ "><>",      NULL },    /* no layout function means floating behavior */
- 	{ "[M]",      monocle },
-+	{ NULL,       NULL },
- };
- 
- /* key definitions */
